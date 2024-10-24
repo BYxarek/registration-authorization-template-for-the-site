@@ -4,7 +4,7 @@
 
 Main "functions":
 <ul>
-<il>Password hashing.</il>
-<il>Checking for uniqueness of mail.</il>
-<il>Password confirmation.</il>
+<li>Password hashing.</li>
+<li>Checking for uniqueness of mail.</li>
+<li>Password confirmation.</li>
 </ul>
